@@ -69,6 +69,7 @@ Arnel Forbes
 - [Marjy Guery](https://github.com/mguery)
 - [Deniz Ozkan](https://github.com/denozk)
 - [Daniel Yusry](https://github.com/DanielYuo)
+- [Remya Krishnan][https://github.com/krishremya]
 - [Newhatchling](https://github.com/newhatchling)
 - [Kyle Foster] (https://github.com/kafoster11)
 - [Effi Tramountani] (https://github.com/effi-t)
